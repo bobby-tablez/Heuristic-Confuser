@@ -1,4 +1,4 @@
-# Heuristic-Confuser
+# PowerShell Heuristic-Confuser
 
 This PowerShell script attempts to bypass AV heuristic or sandbox detection by date/time comparisons.  
 
